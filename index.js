@@ -155,9 +155,9 @@ function kabisat(year) {
     }
 
     if (kabisat) {
-        console.log(`Tahun ${year} adalah kabisat`);
+        console.log(`${year} adalah tahun kabisat`);
     } else {
-        console.log(`Tahun ${year} bukan kabisat`);
+        console.log(`${year} bukan bukan kabisat`);
     }
 }
 
